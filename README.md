@@ -9,13 +9,21 @@ connect the back-end and front-end I used Axios.
 
 **USED TECHNOLOGIES**
 Back-end: Spring (Boot, Data, ModelMapper), JPA/Hibernate, Lombok, node.js
+
 Front-end: React.js(Router-DOM), Axios, BootStrap 4, CSS
+
 Database: MySQL, MySQL WorkBench
+
 API Platform: POSTMAN
+
 IDE: IntelliJ IDEA Ultimate by JetBrains, Visual Studio Code by Microsoft Corporation
+
 Server Build: Maven
+
 Client Build: npm
+
 Spring Boot BootStrapper: Spring Initializr
+
 
 ![6](https://user-images.githubusercontent.com/44876635/170861482-903e3fbb-46d5-4e1e-a106-97520c61cdc0.png)
 ![1](https://user-images.githubusercontent.com/44876635/170861484-4f8849f7-4f7b-45ea-abb1-3f9e063fee70.png)
