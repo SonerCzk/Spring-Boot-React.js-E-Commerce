@@ -25,7 +25,6 @@ Client Build: npm
 Spring Boot BootStrapper: Spring Initializr
 
 
-![6](https://user-images.githubusercontent.com/44876635/170861482-903e3fbb-46d5-4e1e-a106-97520c61cdc0.png)
 ![1](https://user-images.githubusercontent.com/44876635/170861484-4f8849f7-4f7b-45ea-abb1-3f9e063fee70.png)
 ![2](https://user-images.githubusercontent.com/44876635/170861487-9871dc7b-e523-4d23-9d95-222b775c7653.png)
 ![3](https://user-images.githubusercontent.com/44876635/170861490-4ace1ccf-ef1a-49d0-9fa7-edbf572047fd.png)
