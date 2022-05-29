@@ -1,4 +1,4 @@
-# Spring-Boot---React.js-E-Commerce
+# Spring-Boot-React.js-E-Commerce
 
 **ABSTRACT**
 This project is basically an e-commerce website for computer equipment such as headphones,
